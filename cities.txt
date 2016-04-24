@@ -1,0 +1,325 @@
+101.2 Anniston-Calhoun County, AL
+105.1 Akron, OH
+108.7 Albany, GA
+105 Albany, NY
+96 Alexandria, LA
+89.9 Amarillo, TX
+105.5 Americus, GA
+93.7 Ames, IA
+134.5 Anchorage, AK
+103.4 Anderson, SC
+93 Appleton, WI
+92.9 Ardmore, OK
+94.4 Arlington, TX
+104.6 Asheville, NC
+100.7 Ashland, OH
+96.2 Atlanta, GA
+104.6 Auburn-Opelika, AL
+106 Augusta-Aiken, GA-SC
+89.3 Austin, TX
+107.6 Bakersfield, CA
+110.8 Baltimore, MD
+100.4 Baton Rouge, LA
+106.9 Beaufort, SC
+87.1 Beaumont, TX
+114.9 Bellingham, WA
+112.1 Bergen-Passaic, NJ
+108.5 Bethesda-Gaithersburg-Frederick, MD
+92.4 Binghamton, NY
+93.5 Birmingham, AL
+105.9 Bismarck-Mandan, ND
+91.5 Blacksburg, VA
+98.5 Boise, ID
+116.7 Boston, MA
+93.3 Bowling Green, KY
+107.3 Bozeman, MT
+106.6 Bradenton, FL
+87.9 Brazoria County, TX
+88.6 Brownsville, TX
+91.8 Buffalo, NY
+93.8 Burlington, IA
+98.6 Burlington, NC
+112.9 Burlington-Chittenden, Co, VT
+103.4 Camden, SC
+107.9 Cape Coral-Fort Myers, FL
+102.6 Carlsbad, NM
+102.5 Cedar,City, UT
+94.8 Cedar Rapids, IA
+98.5 Champaign-Urbana, IL
+100.9 Chapel Hill, NC
+88.8 Charleston, WV
+105.7 Charleston-N, Charleston, SC
+97.1 Charlotte, NC
+101.2 Charlottesville, VA
+97.4 Chattanooga, TN
+101.7 Cheyenne, WY
+111.2 Chicago, IL
+96.4 Cincinnati, OH
+95.2 Clarksburg, WV
+87.9 Clarksville, TN
+108.1 Cleveland, OH
+101.6 Cleveland, TN
+95.4 Colorado Springs, CO
+92.6 Columbia, MO
+105.2 Columbia, SC
+91.6 Columbus, OH
+89.4 Conroe, TX
+97.9 Conway, AR
+86.7 Cookeville, TN
+82.4 Corpus, Christi, TX
+86 Covington, KY
+96.2 Dallas, TX
+94.6 Danville, IL
+111.7 Dare County, NC
+98.7 Davenport-Moline-Rock, Is, IA-IL
+89.2 Dayton, OH
+89.1 Decatur, IL
+98.5 Decatur-Hartselle, AL
+101 Denver, CO
+90.9 Des Moines, IA
+92.7 Detroit, MI
+90 Dodge City, KS
+100.3 Dothan, AL
+104.1 Douglas, GA
+110.4 Dover, DE
+98.1 Dubuque, IA
+97.9 Durham, NC
+109.8 Dutchess, County, NY
+93.4 Dyersburg, TN
+97.6 Eau Claire, WI
+88.7 Edmond, OK
+99.9 El Paso, TX
+91.4 Elkhart-Goshen, IN
+103.5 Enid, OK
+96.4 Erie, PA
+93.8 Eugene, OR
+97.9 Evansville, IN
+112 Everett, WA
+127.9 Fairbanks, AK
+99.8 Fargo-Moorhead, ND-MN
+101.8 Farmington, NM
+95.3 Fayetteville, AR
+105.1 Fayetteville, NC
+102.3 Findlay, OH
+99.3 Fitchburg-Leominster, MA
+106.6 Flagstaff, AZ
+96.6 Florence, AL
+112.5 Fort Lauderdale, FL
+92.5 Fort Smith, AR
+93.3 Fort Wayne-Allen, County, IN
+89.8 Fort Worth, TX
+109.4 Framingham-Natick, MA
+115.8 Fresno, CA
+106.3 Gainesville, FL
+99.7 Galesburg, IL
+91.2 Garden City, KS
+105.4 Glens Falls, NY
+103.3 Glenwood Springs, CO
+101.9 Grand Junction, CO
+102.7 Grand Rapids, MI
+88.8 Green Bay, WI
+105.9 Greenville, NC
+102.7 Greenville, SC
+110.6 Gunnison, CO
+99 Hammond, LA
+106.6 Hampton Roads-SE, Virginia, VA
+81.5 Harlingen, TX
+97.8 Harrisburg, PA
+97.5 Harrisonburg, VA
+120.7 Hartford, CT
+103.7 Hastings, NE
+100.5 Hattiesburg, MS
+92 Hays, KS
+101.1 Hickory, NC
+111.4 Hilton Head Island, SC
+160.1 Honolulu, HI
+97.3 Hot Springs, AR
+85.1 Houston, TX
+94.9 Huntsville, AL
+89 Hutchinson, KS
+99.5 Idaho Falls, ID
+99.7 Indiana, County, PA
+91.4 Indianapolis, IN
+94.9 Iowa, City, IA
+102.9 Ithaca, NY
+93 Jackson, MS
+91.1 Jackson-Madison County, TN
+102.8 Jacksonville, FL
+103.2 Jacksonville, NC
+95 Janesville, WI
+93.9 Jefferson City, MO
+92.3 Johnson City, TN
+97.7 Johnstown, PA
+100.9 Joliet-Will, County, IL
+97.5 Jonesboro, AR
+92.2 Joplin, MO
+133.1 Juneau, AK
+95.6 Kalamazoo, MI
+116.3 Kalispell, MT
+94.8 Kansas City, MO-KS
+90.9 Kennewick-Richland-Pasco, WA
+102.5 Kinston, NC
+91.4 Knoxville, TN
+149.4 Kodiak, AK
+95.6 Lafayette, IN
+93.5 Lafayette, LA
+99.8 Lake, Charles, LA
+107 Lake, Havasu, City, AZ
+101.3 Lancaster, PA
+105.1 Laramie, WY
+103.7 Las Cruces, NM
+106.8 Las Vegas, NV
+89.1 Lawrence, KS
+96.3 Lawton, OK
+86.9 Lexington, KY
+92.1 Lexington-Buena, Vista-Rockbridge, VA
+101.9 Lima, OH
+92.9 Little, Rock-North, Little, Rock, AR
+104.7 Logan, UT
+97.1 Los Alamos, NM
+106 Los, Angeles-Long, Beach, CA
+81.6 Louisville, KY
+102.7 Loveland, CO
+90 Lubbock, TX
+87.8 Lufkin, TX
+90.7 Lynchburg, VA
+102.3 Manchester, NH
+92.5 Manhattan, KS
+93.8 Mankato, MN
+96.8 Marietta, GA
+103.1 Marion-McDowell County, NC
+95.3 Marshfield, WI
+91.5 Martinsburg-Berkeley County, WV
+94 Martinsville-Henry, County, VA
+89.4 Mason City, IA
+79.8 McAllen, TX
+92.7 Memphis, TN
+110.9 Miami-Dade, County, FL
+108.9 Middlesex-Monmouth, NJ
+89.7 Midland, TX
+98.1 Milwaukee-Waukesha, WI
+111.6 Minneapolis, MN
+99.3 Minot, ND
+110.2 Missoula, MT
+102.7 Mobile, AL
+95.8 Monroe, LA
+102.9 Montgomery, AL
+93.9 Morgantown, WV
+91.6 Morristown, TN
+91 Muncie, IN
+94.3 Murfreesboro-Smyrna, TN
+98 Muskogee, OK
+105.7 Myrtle Beach, SC
+91 Nacogdoches, TX
+91.7 Nashville-Franklin, TN
+123 Nassau County, NY
+117.9 New Haven, CT
+130.6 New York(Brooklyn), NY
+154.3 New York (Manhattan), NY
+128.3 New York, (Queens), NY
+111.6 Newark-Elizabeth, NJ
+95.3 Norman, OK
+116.8 Oakland, CA
+91.2 Odessa, TX
+92.9 Oklahoma City, OK
+107.4 Olympia, WA
+92 Omaha, NE
+104.5 Orange County, CA
+97.8 Orlando, FL
+94.8 Paducah, KY
+111.5 Palm Springs, CA
+93.7 Panama, City, FL
+93.6 Paris, TX
+101 Pascagoula, MS
+93.4 Peoria, IL
+124.9 Philadelphia, PA
+108.1 Phoenix, AZ
+104.1 Pittsburgh, PA
+115 Pittsfield, MA
+101.3 Plano, TX
+98.9 Plattsburgh, NY
+94.8 Ponca, City, OK
+101.8 Portland, ME
+105.8 Portland, OR
+95.2 Prescott-Prescott Valley, AZ
+113.4 Providence, RI
+95 Pryor, Creek, OK
+100.5 Pueblo, CO
+97.4 Quincy, IL
+104.2 Raleigh, NC
+105.4 Reno-Sparks, NV
+83.3 Richmond, IN
+103.6 Richmond, VA
+92 Rio Rancho, NM
+104.9 Riverside, City, CA
+89.7 Roanoke, VA
+89.6 Rochester, MN
+94.6 Rochester, NY
+92.6 Rockford, IL
+105.6 Roswell, NM
+81.9 Round,Rock, TX
+114.7 Sacramento, CA
+86.9 Salina, KS
+100.1 Salt Lake City, UT
+89.3 San Angelo, TX
+84.9 San Antonio, TX
+105.5 San Diego, CA
+111.9 San Francisco, CA
+115.3 San Jose, CA
+88.7 San Marcos, TX
+107.7 Sarasota, FL
+94.7 Savannah, GA
+115.1 Seattle, WA
+90.7 Seguin, TX
+94.3 Sheboygan, WI
+95.2 Shreveport-Bossier, City, LA
+96.5 Sierra, Vista, AZ
+91.5 Sioux, Falls, SD
+95.1 Slidell-St., Tammany, Parish, LA
+91.3 South, Bend, IN
+92.4 Spokane, WA
+89.7 Springfield, IL
+93.2 Springfield, MO
+101.7 St. Cloud, MN
+99.9 St. George, UT
+95.4 St. Joseph, MO
+98.4 St. Louis, MO-IL
+107 St. Paul, MN
+121.8 Stamford, CT
+98.3 Staunton-Augusta, County, VA
+95.5 Stillwater, OK
+103.4 Sumter, SC
+98.6 Syracuse, NY
+111.3 Tacoma, WA
+96.3 Tampa, FL
+83.7 Temple, TX
+105.5 Thomasville-Lexington, NC
+92.9 Topeka, KS
+96.4 Troy-Miami, County, OH
+132.2 Truckee-Nevada, County, CA
+97.2 Tucson, AZ
+91.9 Tulsa, OK
+91.1 Tupelo, MS
+104.9 Tuscaloosa, AL
+95.5 Twin Falls, ID
+92.7 Tyler, TX
+111.8 Valdosta, GA
+96.9 Vancouver, WA
+109.1 Vero, Beach-Indian, River, FL
+81.8 Waco, TX
+107.9 Washington-Arlington-Alexandria, DC-VA
+89.5 Waterloo-Cedar, Falls, IA
+100 Wausau, WI
+95.9 Weatherford, TX
+91.9 Wichita, Falls, TX
+90.5 Wichita, KS
+103.5 Williamsport-Lycoming, Co, PA
+108.1 Wilmington, DE
+108 Wilmington, NC
+104.6 Winchester, VA-WV
+98.5 Winston-Salem, NC
+99.5 Wooster, OH
+99.8 Yakima, WA
+98.4 York County, PA
+92.6 Youngstown-Warren, OH
+107.4 Yuma, AZ

@@ -10,20 +10,14 @@ using namespace std;
 int main(){
 	
 	
-	string input;
-	int size;
+	char firstName[81];
 	
-	cout << "Enter your name: ";
-	getline(cin, input);
+	cout << "Enter your first name: ";
+	cin >> firstName;
 	
-	size = strlen(input.c_str());
+	char* name = deleteLastElement(firstName, strlen(firstName));
 	
-	char* name = deleteLastElement(input.c_str(), size);
-	
-	for(int i = 0; i < size; i++){
-		cout << *(name + i);
-	}
-	cout << endl;
+	cout << name << endl;
 	
 	return 0;
 }

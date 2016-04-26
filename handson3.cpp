@@ -1,7 +1,6 @@
 #include <iostream>
 #include <cstring>
 #include <cctype>
-#include <string>
 
 char* deleteLastElement(char* str, int size);
 
@@ -12,7 +11,7 @@ int main(){
 	
 	char firstName[81];
 	
-	cout << "Enter your first name: ";
+	cout << "Enter your family name: ";
 	cin >> firstName;
 	
 	char* name = deleteLastElement(firstName, strlen(firstName));
@@ -22,9 +21,21 @@ int main(){
 	return 0;
 }
 char* deleteLastElement(char* str, int size){
+	/*Pre: str: pointer to a char
+		   size: size of the cstring
 	
+	 Purpose: Delete the last character of str
+	
+	 Post: return the changed str
+	*/
 	*(str + size - 1) = *(str + size);
 	
 	return str;
 	
 }
+/* Output
+
+Enter your family name: Badalian
+Badalia
+
+*/
